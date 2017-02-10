@@ -60,15 +60,15 @@
 		2CF8F8051E49277D0037E990 /* TableViev_Vpoint */ = {
 			isa = PBXGroup;
 			children = (
-				2CF8F8181E492C1A0037E990 /* ToDoItem.swift */,
 				2CF8F8061E49277D0037E990 /* AppDelegate.swift */,
+				2CF8F81C1E49351D0037E990 /* ToDoTableViewController.swift */,
+				2CF8F81A1E492FF40037E990 /* ToDoItemTableViewCell.swift */,
+				2CF8F8181E492C1A0037E990 /* ToDoItem.swift */,
 				2CF8F8081E49277D0037E990 /* ViewController.swift */,
 				2CF8F80A1E49277D0037E990 /* Main.storyboard */,
 				2CF8F80D1E49277D0037E990 /* Assets.xcassets */,
 				2CF8F80F1E49277D0037E990 /* LaunchScreen.storyboard */,
 				2CF8F8121E49277D0037E990 /* Info.plist */,
-				2CF8F81A1E492FF40037E990 /* ToDoItemTableViewCell.swift */,
-				2CF8F81C1E49351D0037E990 /* ToDoTableViewController.swift */,
 			);
 			path = TableViev_Vpoint;
 			sourceTree = "<group>";
@@ -311,6 +311,7 @@
 				2CF8F8171E49277D0037E990 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

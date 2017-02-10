@@ -40,7 +40,8 @@ class ToDoTableViewController: UITableViewController {
     }
     //   moje dane
     var users=["Dawid", "Jacek","Michał","Sławek"]
-    let titles=["Pisze program","Kupuje pomidory","Czyci pokój"]
+    let titles=["Pisze program","Kupuje pomidory","Czyści pokój"]
+    
     
     func generateDummyData(count:Int) -> [ToDoItem] {
         var items=[ToDoItem]()
@@ -53,15 +54,6 @@ class ToDoTableViewController: UITableViewController {
         }
         return  items
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
 
     
